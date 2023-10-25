@@ -41,7 +41,7 @@ $ git clone https://github.com/CiallC/Neonatal_seizure_resnext.git
 
 | Files                                  | Description                                       |    
 |----------------------------------------|---------------------------------------------------|        
-| [Main_Inference.py](Main_Inference.py) | Main file for running seizure detection algorithm |
+| [Main_Inference.py](Main_Inference_AUC.py) | Main file for running seizure detection algorithm |
 | [config_1.py](Config_1.py)             | Configuration file                                |
 
 | Folder                                   | Description                                       |    
