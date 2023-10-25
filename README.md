@@ -19,11 +19,9 @@
 ## 1. Introduction
   
 This branch is used to check the Oct 2023 changes to the master branch.  It was checked using the config_class branch from last year.
-The AUC calcs both gave the same results.
-AUC for eeg1_SIGNAL.mat is AUC 0.906878, AUC90 0.043764
-runs 3
-AUC for eeg4_SIGNAL.mat calcs AUC 0.999120, AUC90 0.099120
-For no. of model runs... 3
+<br />The AUC calcs both gave the same results.
+<br />AUC for eeg1_SIGNAL.mat is AUC 0.906878, AUC90 0.043764 runs 3
+<br />AUC for eeg4_SIGNAL.mat calcs AUC 0.999120, AUC90 0.099120  For no. of model runs... 3
 ---  
   
   
