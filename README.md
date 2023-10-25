@@ -18,9 +18,12 @@
 ---  
 ## 1. Introduction
   
-This repository contains code for a deep learning neonatal seizure detection algorithm using EEG signals as input.  It is based on the published paper -link.
-Details of how the algorithm can be run are given below using the publicly available Helsinki EEG dataset.
-  
+This branch is used to check the Oct 2023 changes to the master branch.  It was checked using the config_class branch from last year.
+The AUC calcs both gave the same results.
+AUC for eeg1_SIGNAL.mat is AUC 0.906878, AUC90 0.043764
+runs 3
+AUC for eeg4_SIGNAL.mat calcs AUC 0.999120, AUC90 0.099120
+For no. of model runs... 3
 ---  
   
   
