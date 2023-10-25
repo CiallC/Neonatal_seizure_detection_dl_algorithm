@@ -21,8 +21,8 @@ if __name__ == '__main__':
     path_1 = 'Benchmark_weights/'  # folder with weights
     path_2 = './Helsinki files/'  # folder with EEG signal data and labels for test
     name = 'run_hski_1' # name for saving results file
-    hski_baby = 4 # the Helsinki file/baby no. for test
-    runs = 2  # no. of sets of weights used.  This corresponds to the no. of training runs.
+    hski_baby = 1 # the Helsinki file/baby no. for test
+    runs = 3  # no. of sets of weights used.  This corresponds to the no. of training runs.
     window_size = 69 - epoch_length  # 53 for 16 sec window, used in Moving Average Filter
     # Cannot change the following parameters in test
     filters = 32
