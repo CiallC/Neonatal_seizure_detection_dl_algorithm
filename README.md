@@ -117,9 +117,5 @@ Aengus Daly
 
 If you use this work, please cite our [paper](https://www.nature.com/articles/s41598-024-78979-y).
 
-```latex
-
-
-```
 
 ___
