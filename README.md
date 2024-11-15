@@ -19,7 +19,7 @@
 
 This repository contains code and instructions for running a neonatal seizure detection deep learning algorithm using EEG signals as input and a probability of seizure trace as output.
 
-<br /> It is based on the published papers [1] and [[2]](https://ieeexplore.ieee.org/document/10290015), and references are [below](#8-References).
+<br /> It is based on the published papers [[1]](https://doi.org/10.1038/s41598-024-78979-y) and [[2]](https://ieeexplore.ieee.org/document/10290015), and references are [below](#8-References).
 
 ___
 
@@ -99,7 +99,7 @@ Aengus Daly, Gordon Lightbody, Andriy Temko
 ___
 ## 8. References
 
-[1] Main link: <br /> 
+[1] A. Daly, G. Lightbody and A. Temko, "Analysis of the impact of deep learning know-how and data in modelling neonatal EEG," Sci Rep 14, 28059 (2024), Available: https://doi.org/10.1038/s41598-024-78979-y <br /> 
 [2] A. Daly, G. Lightbody and A. Temko, "Bridging the Source-Target Mismatch with Pseudo Labeling for Neonatal Seizure Detection," 2023 31st European Signal Processing Conference (EUSIPCO), Helsinki, Finland, 2023, pp. 1100-1104, doi: 10.23919/EUSIPCO58844.2023.10290015. [paper](https://ieeexplore.ieee.org/document/10290015) <br /> 
 [3] N. J. Stevenson, K. Tapani, L. Lauronen and S. Vanhatalo, "A dataset of neonatal EEG recordings with seizure annotations", Scientific Data, vol. 6, no. 1, Mar. 2019, Available: https://zenodo.org/records/4940267 <br /> 
 [4] J. M. O'Toole, "Neonatal EEG graded for severity of background abnormalities in hypoxic-ischaemic encephalopathy", arXiv, Jun. 2022, [online] Available: http://arxiv.org/abs/2206.04420
@@ -115,19 +115,10 @@ Aengus Daly
 
 ## 10. Citation
 
-If you use this work, consider citing our (update to new paper) [paper](https://ieeexplore.ieee.org/document/10290015):
+If you use this work, please cite our [paper](https://www.nature.com/articles/s41598-024-78979-y).
 
 ```latex
-@INPROCEEDINGS{10290015,
 
-  author={Daly, Aengus and Lightbody, Gordon and Temko, Andriy},
-  booktitle={2023 31st European Signal Processing Conference (EUSIPCO)}, 
-  title={Bridging the Source-Target Mismatch with Pseudo Labeling for Neonatal Seizure Detection}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1100-1104},
-  doi={10.23919/EUSIPCO58844.2023.10290015}}
 
 ```
 
